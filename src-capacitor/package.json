@@ -1,0 +1,15 @@
+{
+  "name": "quasar-project",
+  "version": "0.0.1",
+  "description": "A Quasar Project",
+  "author": "brykan <brykan@live.com>",
+  "private": true,
+  "dependencies": {
+    "@capacitor/android": "^4.0.0-beta.0",
+    "@capacitor/cli": "^4.0.1",
+    "@capacitor/core": "^4.0.1",
+    "@capacitor/live-updates": "^0.0.1"
+  }
+}
+
+

@@ -1,0 +1,15 @@
+{
+  "appId": "org.capacitor.quasar.app",
+  "appName": "Quasar App",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "www",
+  "plugins": {
+    "LiveUpdates": {
+      "appId": "17633623",
+      "channel": "production",
+      "autoUpdateMethod": "background",
+      "maxVersions": "2"
+    }
+  }
+}
